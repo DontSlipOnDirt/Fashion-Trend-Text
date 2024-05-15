@@ -5,4 +5,4 @@ This branch is dedicated to the analysis of text taken from articles. Please mak
 
 To run the Scrapy spider do the following:
 `cd ScrapeArticles`
-`scrapy crawl articles -O articles.json`
+`scrapy crawl articles -O fashionUnitedArticles.json`
