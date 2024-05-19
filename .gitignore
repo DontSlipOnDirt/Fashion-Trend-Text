@@ -1,6 +1,11 @@
 # private file with sensitive data
 private.py
 
+# data
+/data
+
+/uhhh idk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
